@@ -6,6 +6,19 @@
         <language>en</language>
 
         <!-- Add your first release item here when ready -->
+        <item>
+            <title>Version 1.0.7</title>
+            <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            
+            <enclosure 
+                url="https://github.com/jswladitya/sparkle-updater-release/releases/download/v1.0.7/RecordKit-v1.0.7.dmg" 
+                sparkle:version="7" 
+                sparkle:shortVersionString="1.0.7"
+                length="36717719" 
+                type="application/x-apple-diskimage"
+                sparkle:edSignature="oaRlAi6KJNkSyRlQ+WJiPfdh1L8U2pgoIveXBZ+kk2NfdVX0gFUCuS9S3V+FsqvqitKJgBo/cjyz21ODtW2iCw==" />
+        </item>
 
     </channel>
 </rss>

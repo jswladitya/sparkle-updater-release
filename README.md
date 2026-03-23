@@ -1,1 +1,0 @@
-# sparkle-updater-release
