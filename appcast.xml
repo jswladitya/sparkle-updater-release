@@ -7,6 +7,22 @@
 
         <!-- New release -->
         <item>
+            <title>Version 1.1.3</title>
+            <pubDate>Mon, 5 April 2026 12:00:00 +0000</pubDate>
+            <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
+            
+            <enclosure
+                url="https://github.com/jswladitya/sparkle-updater-release/releases/download/v1.1.3/RecordKit-v1.1.3.dmg" 
+                sparkle:version="13" 
+                sparkle:shortVersionString="1.1.3"
+                length="7347877" 
+                type="application/x-apple-diskimage"
+                sparkle:edSignature="m+Paw4BMuAANkhzeMLnm26/fB0z6UDrC8LHd9JASCutpNQwXM7+yiz6xRenO5QZhc14mHvXSoU8iPcxLfMdaDQ==" />
+        </item>
+
+        <!-- Previous releases -->
+
+        <item>
             <title>Version 1.0.9</title>
             <pubDate>Mon, 25 Mar 2025 12:00:00 +0000</pubDate>
             <sparkle:minimumSystemVersion>13.0</sparkle:minimumSystemVersion>
@@ -20,7 +36,6 @@
                 sparkle:edSignature="0rM4jPh2gMz/GCVatczMf7wP+e0pPprrpMSqEwkU5SE0Mcn8VLB6I2jm6nTPxIgYTYijUAuuVk92riXSqSEcCw==" />
         </item>
 
-        <!-- Previous releases -->
         <item>
             <title>Version 1.0.7</title>
             <pubDate>Mon, 23 Mar 2026 12:00:00 +0000</pubDate>
